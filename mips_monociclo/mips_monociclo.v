@@ -1,3 +1,16 @@
+// ------------------------------------------------------------
+// Grupo: Cauã Lira, Lucas Emanuel e Sérgio Ricardo
+// Atividade: 2VA - Projeto Monociclo
+// Disciplina: Arquitetura e Organização de Computadores
+// Semestre letivo: 2025.2
+// Arquivo: mips_monociclo.v
+// Questão: Núcleo MIPS (Top-level)
+// Descrição: Módulo toplevel em Verilog que integra todos os
+//            módulos do processador MIPS monociclo, recebendo
+//            clock e reset e expondo PC, saída da ULA e saída
+//            da memória de dados.
+// ------------------------------------------------------------
+
 module mips_monociclo(
     input wire clk,
     input wire reset,
