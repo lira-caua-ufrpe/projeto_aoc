@@ -1,3 +1,15 @@
+// ------------------------------------------------------------
+// Grupo: Cauã Lira, Lucas Emanuel e Sérgio Ricardo
+// Atividade: 2VA - Projeto Monociclo
+// Disciplina: Arquitetura e Organização de Computadores
+// Semestre letivo: 2025.2
+// Arquivo: utils.v
+// Questão: Módulos auxiliares do datapath MIPS
+// Descrição: Implementa multiplexadores, somadores, extensão de sinal
+//            e unidade de jump utilizados na integração do MIPS monociclo.
+// ------------------------------------------------------------
+
+
 // Módulos auxiliares para o processador MIPS monociclo
 
 // Multiplexador 2:1 de 32 bits
