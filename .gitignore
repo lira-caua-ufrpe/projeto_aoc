@@ -1,0 +1,13 @@
+# 1. Ignorar TUDO por padrão
+*
+
+# 2. Permitir navegar nas pastas (essencial para achar arquivos em subpastas)
+!*/
+
+# 3. Liberar (Designorar) apenas os arquivos que você pediu
+!*.v
+!instructions.list
+
+# 4. Liberar arquivos de documentação do repositório (Recomendado)
+!README.md
+!.gitignore
