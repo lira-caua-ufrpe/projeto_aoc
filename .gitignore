@@ -1,0 +1,12 @@
+# 1. Ignorar TUDO por padrão
+*
+
+# 2. Permitir que o Git entre nas subpastas (CRUCIAL)
+!*/
+
+# 3. Liberar (Não ignorar) os arquivos específicos onde quer que eles estejam
+!*.v
+!*.sv
+!*.list
+!README.md
+!.gitignore
